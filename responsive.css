@@ -1,0 +1,22 @@
+@media screen and (max-width:768px) {
+    .j_media {
+        width: 100% !important;
+    }
+    .j_media .j_avatar img {
+        object-position: -190px !important;
+    }
+}
+
+.social_links {
+    bottom: -20px !important;
+    left: 58px !important;
+}
+
+.social-link .j_bg_purple {
+    width: 60px;
+    height: 60px;
+}
+
+.social-links .j_bg_purple i {
+    font-size: 45px;
+}
