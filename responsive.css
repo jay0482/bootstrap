@@ -20,3 +20,39 @@
 .social-links .j_bg_purple i {
     font-size: 45px;
 }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-md-6 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.image img {
+    vertical-align: middle;
+}
+
+.text-centre {
+    text-align: center !important;
+}
+
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.text-white {
+    color: white;
+}
+
+.pb-5 {
+    padding-bottom: 3rem !important;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
